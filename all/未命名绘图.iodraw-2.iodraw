@@ -25,8 +25,11 @@
         <mxCell id="W07aieJzd7C5fPhUxYKo-5" value="已取消" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="320" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="W07aieJzd7C5fPhUxYKo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W07aieJzd7C5fPhUxYKo-6" target="W07aieJzd7C5fPhUxYKo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="W07aieJzd7C5fPhUxYKo-6" value="已支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="340" width="100" height="50" as="geometry" />
+          <mxGeometry x="314" y="340" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W07aieJzd7C5fPhUxYKo-7" value="已取消" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="240" width="100" height="50" as="geometry" />
