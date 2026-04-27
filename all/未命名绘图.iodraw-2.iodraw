@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W07aieJzd7C5fPhUxYKo-6" value="已支付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="340" width="96" height="50" as="geometry" />
+          <mxGeometry x="314" y="340" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="W07aieJzd7C5fPhUxYKo-7" value="已取消" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="240" width="100" height="50" as="geometry" />
