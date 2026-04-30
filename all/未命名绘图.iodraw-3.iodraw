@@ -142,8 +142,12 @@
         <mxCell id="Wd6v-DaO-QQOraHd8EMU-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.27;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wd6v-DaO-QQOraHd8EMU-36" target="Wd6v-DaO-QQOraHd8EMU-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wd6v-DaO-QQOraHd8EMU-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.125;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Wd6v-DaO-QQOraHd8EMU-29" target="Wd6v-DaO-QQOraHd8EMU-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Wd6v-DaO-QQOraHd8EMU-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.125;entryY=0.97;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;" edge="1" parent="1" source="Wd6v-DaO-QQOraHd8EMU-29" target="Wd6v-DaO-QQOraHd8EMU-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
