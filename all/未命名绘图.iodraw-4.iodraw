@@ -22,6 +22,9 @@
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-6" value="(A==B)&amp;amp;&amp;amp;(B==C)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="530" width="260" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-7" value="(A==B)&amp;amp;&amp;amp;(B==C)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="720" width="260" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
