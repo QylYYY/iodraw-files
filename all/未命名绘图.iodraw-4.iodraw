@@ -55,8 +55,8 @@
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-16" value="等边三角形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SLi19NmIGB6CGYZ7GLPX-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-20" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
