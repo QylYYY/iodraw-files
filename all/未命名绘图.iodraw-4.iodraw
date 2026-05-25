@@ -63,11 +63,17 @@
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-15" value="等腰三角形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="870" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLi19NmIGB6CGYZ7GLPX-16" target="SLi19NmIGB6CGYZ7GLPX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-16" value="等边三角形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-20" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="728" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
