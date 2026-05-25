@@ -25,8 +25,16 @@
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-3" value="（A+B&amp;gt;C)&amp;amp;&amp;amp;(A+C&amp;gt;B)&amp;amp;&amp;amp;(B+C&amp;gt;A)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="320" width="385" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLi19NmIGB6CGYZ7GLPX-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-4" value="不构成三角形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLi19NmIGB6CGYZ7GLPX-5" target="SLi19NmIGB6CGYZ7GLPX-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-5" value="一般三角形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="870" width="120" height="60" as="geometry" />
@@ -48,6 +56,9 @@
         </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-7" value="(A==B)||(A==C)||(B==C)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="720" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLi19NmIGB6CGYZ7GLPX-15" target="SLi19NmIGB6CGYZ7GLPX-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-15" value="等腰三角形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="870" width="120" height="60" as="geometry" />
