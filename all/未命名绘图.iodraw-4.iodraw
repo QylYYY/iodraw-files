@@ -16,6 +16,12 @@
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-2" value="输入&lt;div&gt;A、B、C&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLi19NmIGB6CGYZ7GLPX-3" target="SLi19NmIGB6CGYZ7GLPX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLi19NmIGB6CGYZ7GLPX-3" target="SLi19NmIGB6CGYZ7GLPX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-3" value="（A+B&amp;gt;C)&amp;amp;&amp;amp;(A+C&amp;gt;B)&amp;amp;&amp;amp;(B+C&amp;gt;A)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="320" width="385" height="150" as="geometry" />
         </mxCell>
@@ -24,6 +30,9 @@
         </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SLi19NmIGB6CGYZ7GLPX-6" target="SLi19NmIGB6CGYZ7GLPX-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-6" value="(A==B)&amp;amp;&amp;amp;(B==C)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="530" width="260" height="120" as="geometry" />
