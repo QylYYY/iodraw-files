@@ -7,6 +7,9 @@
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="30" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
