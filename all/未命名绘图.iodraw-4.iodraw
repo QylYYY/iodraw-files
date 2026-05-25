@@ -43,8 +43,11 @@
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-7" value="(A==B)||(A==C)||(B==C)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="720" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SLi19NmIGB6CGYZ7GLPX-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-15" value="等边三角形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLi19NmIGB6CGYZ7GLPX-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
