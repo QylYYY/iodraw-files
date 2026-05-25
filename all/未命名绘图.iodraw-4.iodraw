@@ -93,11 +93,6 @@
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="950" y="338" width="72" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="SLi19NmIGB6CGYZ7GLPX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SLi19NmIGB6CGYZ7GLPX-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="960" y="348" width="72" height="72" as="geometry" />
         </mxCell>
@@ -114,13 +109,13 @@
           <mxGeometry x="1000" y="388" width="72" height="72" as="geometry" />
         </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="398" width="72" height="72" as="geometry" />
+          <mxGeometry x="830" y="398" width="72" height="72" as="geometry" />
         </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="408" width="72" height="72" as="geometry" />
+          <mxGeometry x="700" y="398" width="72" height="72" as="geometry" />
         </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="418" width="72" height="72" as="geometry" />
+          <mxGeometry x="810" y="266" width="72" height="72" as="geometry" />
         </mxCell>
         <mxCell id="SLi19NmIGB6CGYZ7GLPX-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1092" y="260" width="72" height="72" as="geometry" />
