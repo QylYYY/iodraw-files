@@ -264,10 +264,10 @@
         <mxCell id="9BN4I4eBA0F4E19pjRUj-74" value="联系人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="840" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9BN4I4eBA0F4E19pjRUj-75" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9BN4I4eBA0F4E19pjRUj-75" value="电话号码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1550" y="890" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9BN4I4eBA0F4E19pjRUj-76" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9BN4I4eBA0F4E19pjRUj-76" value="银行账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1690" y="890" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9BN4I4eBA0F4E19pjRUj-77" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
