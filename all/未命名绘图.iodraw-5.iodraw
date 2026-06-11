@@ -252,16 +252,10 @@
         <mxCell id="9BN4I4eBA0F4E19pjRUj-68" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="180" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9BN4I4eBA0F4E19pjRUj-69" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="480" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9BN4I4eBA0F4E19pjRUj-70" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="500" width="90" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="9BN4I4eBA0F4E19pjRUj-71" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1870" y="560" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9BN4I4eBA0F4E19pjRUj-72" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9BN4I4eBA0F4E19pjRUj-72" value="供应商编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="630" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9BN4I4eBA0F4E19pjRUj-73" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
