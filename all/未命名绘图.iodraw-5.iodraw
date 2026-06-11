@@ -133,7 +133,7 @@
             <mxPoint x="520" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9BN4I4eBA0F4E19pjRUj-41" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9BN4I4eBA0F4E19pjRUj-41" value="商品名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="300" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9BN4I4eBA0F4E19pjRUj-42" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -142,7 +142,7 @@
         <mxCell id="9BN4I4eBA0F4E19pjRUj-43" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="660" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9BN4I4eBA0F4E19pjRUj-44" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9BN4I4eBA0F4E19pjRUj-44" value="数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="320" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9BN4I4eBA0F4E19pjRUj-45" value="单价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
